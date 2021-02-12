@@ -6,7 +6,7 @@ I'm working on these slowly, but hope to finish them at some point in 2021 in my
 
 
 | Day | Part 1 Finished | Part 2 Finished | Code            |
-|:---:|:---------------:|:---------------:| :               |
+|:---:|:---------------:|:---------------:|:----------------|
 |  1  |      -[x]       |      -[x]       |                 |
 |  2  |      -[x]       |      -[x]       |                 |
 |  3  |      -[x]       |      -[x]       |                 |
