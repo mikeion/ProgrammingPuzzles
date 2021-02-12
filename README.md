@@ -7,22 +7,22 @@ I'm working on these slowly, but hope to finish them at some point in 2021 in my
 
 | Day |   Part 1 Finished  |  Part 2 Finished   | Code            |
 |:---:|:------------------:|:------------------:|:----------------|
-|  1  | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  2  | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  3  | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  4  | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  5  | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  6  | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  7  | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  8  | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  9  | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  10 | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  11 | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  12 | :heavy_check_mark: | :heavy_check_mark: |                 |
-|  13 | :heavy_check_mark: |                    |                 |
-|  14 | :heavy_check_mark: |                    |                 |
+|  1  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day01.ipynb)               |
+|  2  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day02.ipynb)               |
+|  3  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day03.ipynb)               |
+|  4  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day04.ipynb)               |
+|  5  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day05.ipynb)               |
+|  6  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day06.ipynb)               |
+|  7  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day07.ipynb)              |
+|  8  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day08.ipynb)              |
+|  9  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day09.ipynb)              |
+|  10 | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day10.ipynb)               |
+|  11 | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day11.ipynb)               |
+|  12 | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day12.ipynb)               |
+|  13 | :heavy_check_mark: | :soon:             |  [Code (part 2, in progress)](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day13.ipynb)               |
+|  14 | :heavy_check_mark: | :soon:             |  [Code (part 2, in progress)](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day14.ipynb)               |
 |  15 |                    |                    |                 |
-|  16 | :heavy_check_mark: |                    |                 |
+|  16 | :heavy_check_mark: | :soon:             |  [Code (part 2, in progress)](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day16.ipynb)               |
 |  17 |                    |                    |                 |
 |  18 |                    |                    |                 |
 |  19 |                    |                    |                 |
