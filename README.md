@@ -1,12 +1,9 @@
-FORMAT: 1A
-
 ## Advent of Code 2020 - Mike Ion
 [Advent of Code](https://adventofcode.com) is an advent calendar of small programming puzzles completed daily by programmers around the world 
 during the month of December. Here, I submit my solutions to the exercises, written in `Python 3.7` using jupyter notebooks in [deepnote](http://deepnote.com). 
 
 I'm working on these slowly, but hope to finish them at some point in 2021 in my free time. If you have any questions about any of the solutions, feel free to reach out to me. :D
 
-<center>
 | Day |   Part 1 Finished  |  Part 2 Finished   | Code            |
 |:---:|:------------------:|:------------------:|:----------------|
 |  1  | :heavy_check_mark: | :heavy_check_mark: |  [Code](https://github.com/mikeion/AdventofCode2020/blob/main/solutions/day01.ipynb)               |
@@ -34,4 +31,4 @@ I'm working on these slowly, but hope to finish them at some point in 2021 in my
 |  23 |                    |                    |                 |
 |  24 |                    |                    |                 |
 |  25 |                    |                    |                 |
-  </center>
+
