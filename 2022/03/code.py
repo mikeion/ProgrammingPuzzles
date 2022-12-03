@@ -16,7 +16,7 @@ with open((__file__.rstrip("code.py")+"input.txt"), 'r') as input_file:
         both_comps = re.sub(r'\W+', '', both_comps)
         for i in both_comps:
         # Note ord('a')=96 and ord('A')=65 so we can assign priority 
-        # to be ord('lower') - 95 and ord=('upper') -64
+        # to be ord('lower') - 96 and ord=('upper') -38
             if i.islower() is True:
                 priority_1 += ord(i) - 96
             else:
@@ -26,7 +26,7 @@ with open((__file__.rstrip("code.py")+"input.txt"), 'r') as input_file:
         all_comps = re.sub(r'\W+', '', all_comps)
         for k in all_comps:
         # Note ord('a')=96 and ord('A')=65 so we can assign priority 
-        # to be ord('lower') - 95 and ord=('upper') -64
+        # to be ord('lower') - 96 and ord=('upper') -38
             if k.islower() is True:
                 priority_2 += ord(k) - 96
             else:
