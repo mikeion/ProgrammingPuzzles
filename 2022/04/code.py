@@ -21,6 +21,7 @@ with open((__file__.rstrip("code.py")+"input.txt"), 'r') as input_file:
         # less than smallest of the right endpoints.        
         elif max(left_1, left_2) <= min(right_1, right_2):
             over_lapping +=1
+
 print("Part One : "+ str(no_of_pairs))
 
 print("Part Two : "+ str(over_lapping))
