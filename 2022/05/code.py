@@ -4,7 +4,6 @@
 
 import numpy as np
 import re
-import copy
 
 def open_file(code="code.py", file="input.txt"):
     with open((__file__.rstrip(code)+file), 'r') as input_file:
@@ -47,14 +46,11 @@ def part_1(code="code.py", file="input.txt"):
 def part_2(code="code.py", file="input.txt"):
     f = open_file(code, file)
     stack_dict = create_dict(f)
-    print(stack_dict)
     instructions = f[10:]
     for line in instructions:
-        # We want to parse the instructions to grab the necessary numbers
+        # We want to parse the instructions to grab the necessary numbers from the string
         line_split = line.split()
-        print(f'stackdict 2 is {stack_dict[2]}')
         sect = stack_dict[int(line_split[3])][:int(line_split[1])]
-        print(f' sect is {sect}')
         for i in sect[::-1]:
             stack_dict[int(line_split[3])].remove(i)
             stack_dict[int(line_split[5])].insert(0, i)
