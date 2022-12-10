@@ -2,9 +2,6 @@
 # Author = Mike Ion
 # Date = December 2022
 
-import numpy as np
-import copy
-
 def open_file(code="code.py", file="input.txt"):
     forest = list(map(str, open((__file__.rstrip(code)+file), 'r').read().split('\n')))
     # Create matrix
