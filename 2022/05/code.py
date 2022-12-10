@@ -61,4 +61,4 @@ def part_2(code="code.py", file="input.txt"):
 
 
 print("Part One : "+ part_1())
-print("Part One : "+ part_2())
+print("Part Two : "+ part_2())
