@@ -2,10 +2,9 @@
 
 This is my landing page for some Programming Puzzles I have solved over the past few years in my free time to improve my coding skills/learn algorithms.
 
-[Advent of Code](https://adventofcode.com) is an advent calendar of small programming puzzles completed daily by programmers around the world 
-during the month of December. Here, I submit my solutions to the exercises, written in `Python 3.7` using jupyter notebooks in [deepnote](http://deepnote.com). 
+- [Advent of Code](https://adventofcode.com) is an advent calendar of small programming puzzles (with a daily competition) completed daily by programmers around the world during the month of December. Here, I submit my solutions to the exercises, written in `Python`, either in Jupyter notebooks or .py scripts.
 
-
+!['Comic']([https://raw.githubusercontent.com/wiki/schroef/extra-image-list/images/extra-image-list.jpg?v26-09-2018](https://www.webtoons.com/en/challenge/advent-of-code/intro/viewer?title_no=713188&episode_no=1))
 ### Advent of Code 2020
 
 | Day |  Code and Problem Descriptions           |
