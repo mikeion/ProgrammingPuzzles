@@ -30,11 +30,11 @@ This is my landing page for some Programming Puzzles I have solved over the past
 
 | Day |  Code           |
 |:---:|:----------------|
-|  1  | [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/code/day01.ipynb)               |
-|  2  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day02.ipynb)               |
-|  3  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day03.ipynb)               |
-|  4  |  [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day04.ipynb)               |
-|  5  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day05.ipynb)               |
-|  6  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day06.ipynb)               |
-|  7  | [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day07.ipynb)              |
-|  8  |  [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day08.ipynb)              |
+|  1  | [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/01/)               |
+|  2  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/02)               |
+|  3  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/03)               |
+|  4  |  [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/04)               |
+|  5  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/05)               |
+|  6  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/06)               |
+|  7  | [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/07)              |
+|  8  |  [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/08)              |
