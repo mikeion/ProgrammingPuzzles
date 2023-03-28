@@ -30,7 +30,7 @@ This is my landing page for some Programming Puzzles I have solved over the past
 
 | Day |  Code           |
 |:---:|:----------------|
-|  1  | [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/code/day01.ipynb)               |
+|  1  | [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/2022/code/day01.ipynb)               |
 |  2  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day02.ipynb)               |
 |  3  |   [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day03.ipynb)               |
 |  4  |  [Code](https://github.com/mikeion/ProgrammingPuzzles/blob/main/solutions/day04.ipynb)               |
